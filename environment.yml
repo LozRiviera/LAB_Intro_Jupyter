@@ -1,0 +1,24 @@
+name: jupyter_intro21
+channels:
+  - pyviz
+  - conda-forge
+  - defaults
+dependencies:
+  - bokeh
+  - faker
+  - geopandas
+  - geoviews
+  - hvplot
+  - ipython
+  - jupyter
+  - markdown
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - panel
+  - param
+  - python
+  - rise
+  - scipy
+  - seaborn
