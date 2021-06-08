@@ -6,6 +6,5 @@
 
 (updated for 2nd talk 16Jun21)
 
-Binder link: https://mybinder.org/v2/gh/LozRiviera/LAB_Intro_Jupyter/1b78976ec2371399d436e6d52ebafbb46862e65f
-
+Binder link:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LozRiviera/LAB_Intro_Jupyter/HEAD)
 
